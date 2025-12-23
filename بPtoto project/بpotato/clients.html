@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>إدارة العملاء - مطعم البطاطس</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="clients.css">
+</head>
+<body>
+    <!-- الهيدر -->
+    <header>
+        <div class="container header-content">
+            <div class="logo">
+                <i class="fas fa-utensils"></i>
+                <div>
+                    <h1><span>مطعم</span> البطاطس</h1>
+                    <p class="tagline">إدارة العملاء</p>
+                </div>
+            </div>
+            <div class="header-actions">
+                <a href="index.html" class="back-btn">
+                    <i class="fas fa-arrow-left"></i>
+                    العودة للقائمة
+                </a>
+                <div class="stats-icon">
+                    <i class="fas fa-user-friends"></i>
+                    <span class="stats-count" id="clientsCount">0</span>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- المحتوى الرئيسي -->
+    <main class="container">
+        <!-- عنوان الصفحة -->
+        <div class="page-title">
+            <h2>إدارة العملاء</h2>
+            <div class="page-actions">
+                <button class="action-btn secondary-btn" id="addClientBtn">
+                    <i class="fas fa-user-plus"></i>
+                    إضافة عميل جديد
+                </button>
+            </div>
+        </div>
+
+        <!-- الفورم والجدول -->
+        <div class="clients-container">
+            <!-- فورم إضافة/تعديل عميل -->
+            <div class="client-form-container">
+                <h3 class="form-title" id="formTitle">إضافة عميل جديد</h3>
+                <form id="clientForm">
+                    <input type="hidden" id="clientId">
+                    
+                    <div class="form-group">
+                        <label for="fullName" class="form-label">الاسم الكامل *</label>
+                        <input type="text" id="fullName" class="form-control" placeholder="أدخل الاسم الكامل">
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="address" class="form-label">العنوان *</label>
+                        <textarea id="address" class="form-control" rows="3" placeholder="أدخل العنوان"></textarea>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="phone" class="form-label">رقم التليفون *</label>
+                        <input type="text" id="phone" class="form-control" placeholder="أدخل رقم التليفون">
+                    </div>
+                    
+                    <div class="form-actions">
+                        <button type="button" class="action-btn danger-btn" id="cancelBtn">
+                            <i class="fas fa-times"></i>
+                            إلغاء
+                        </button>
+                        <button type="submit" class="action-btn success-btn" id="submitBtn">
+                            <i class="fas fa-save"></i>
+                            حفظ
+                        </button>
+                    </div>
+                </form>
+            </div>
+
+            <!-- قائمة العملاء -->
+            <div class="clients-list-container">
+                <!-- شريط البحث والإحصائيات -->
+                <div class="clients-header">
+                    <div class="search-box">
+                        <i class="fas fa-search search-icon"></i>
+                        <input type="text" id="searchClient" class="search-input" placeholder="ابحث عن عميل...">
+                    </div>
+                    <div class="stats">
+                        <div class="stat-card">
+                            <div class="stat-value" id="totalClients">0</div>
+                            <div class="stat-label">إجمالي العملاء</div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- جدول العملاء -->
+                <div class="clients-table-container">
+                    <table class="clients-table">
+                        <thead>
+                            <tr>
+                                <th>#</th>
+                                <th>الاسم الكامل</th>
+                                <th>العنوان</th>
+                                <th>التليفون</th>
+                                <th>الإجراءات</th>
+                            </tr>
+                        </thead>
+                        <tbody id="clientsTableBody">
+                            <!-- سيتم ملء هذا الجدول بواسطة JavaScript -->
+                        </tbody>
+                    </table>
+                    
+                    <!-- حالة عدم وجود عملاء -->
+                    <div class="empty-clients" id="emptyClients" style="display: none;">
+                        <i class="fas fa-user-slash"></i>
+                        <h3>لا توجد عملاء</h3>
+                        <p>ابدأ بإضافة عميل جديد</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- الفوتر -->
+    <footer>
+        <div class="container footer-content">
+            <div class="footer-logo"><span>مطعم</span> البطاطس</div>
+            <p>© 2024 جميع الحقوق محفوظة.</p>
+        </div>
+    </footer>
+
+    <!-- الإشعارات -->
+    <div class="toast" id="toast"></div>
+
+    <script src="clients.js"></script>
+</body>
+</html>

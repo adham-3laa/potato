@@ -1,0 +1,258 @@
+const App = {
+    state: {
+        products: [],
+        brands: [],
+        types: [],
+        cart: JSON.parse(localStorage.getItem('cart')) || [],
+        brand: "",
+        type: "",
+        search: "",
+        page: 1,
+        totalPages: 1
+    },
+
+    async init() {
+        await this.loadFilters();
+        this.bindEvents();
+        await this.loadProducts();
+        this.updateCart();
+    },
+
+    async loadFilters() {
+        const [brands, types] = await Promise.all([
+            ApiService.getBrands(),
+            ApiService.getTypes()
+        ]);
+        
+        this.state.brands = brands;
+        this.state.types = types;
+        
+        const brandFilter = document.getElementById('brandFilter');
+        const typeFilter = document.getElementById('typeFilter');
+        
+        brandFilter.innerHTML = '<option value="">All Brands</option>';
+        typeFilter.innerHTML = '<option value="">All Types</option>';
+        
+        brands.forEach(brand => {
+            const option = document.createElement('option');
+            option.value = brand.id;
+            option.textContent = brand.name;
+            brandFilter.appendChild(option);
+        });
+        
+        types.forEach(type => {
+            const option = document.createElement('option');
+            option.value = type.id;
+            option.textContent = type.name;
+            typeFilter.appendChild(option);
+        });
+    },
+
+    async loadProducts(p = 1) {
+        this.state.page = p;
+        
+        const result = await ApiService.getProducts(
+            this.state.page,
+            this.state.brand,
+            this.state.type,
+            this.state.search
+        );
+        
+        this.state.products = result.products;
+        this.state.totalPages = result.pagination.totalPages;
+        
+        this.renderProducts();
+        this.renderPagination();
+    },
+
+    renderProducts() {
+        const grid = document.getElementById('productsGrid');
+        grid.innerHTML = '';
+        
+        this.state.products.forEach(product => {
+            const card = document.createElement('div');
+            card.className = 'product-card';
+            card.innerHTML = `
+                <div class="product-image">
+                    <img src="${product.pictureUrl}" alt="${product.name}">
+                </div>
+                <div class="product-info">
+                    <h3>${product.name}</h3>
+                    <p>${product.description}</p>
+                    <div class="product-meta">
+                        <span class="product-brand">${product.brandName || 'No Brand'}</span>
+                        <span class="product-type">${product.typeName || 'No Type'}</span>
+                    </div>
+                    <div class="product-price">$${product.price.toFixed(2)}</div>
+                    <button data-id="${product.id}">Add to Cart</button>
+                </div>
+            `;
+            
+            card.querySelector('button').addEventListener('click', () => this.addToCart(product.id));
+            grid.appendChild(card);
+        });
+    },
+
+    renderPagination() {
+        const controls = document.getElementById('paginationControls');
+        if (this.state.totalPages <= 1) {
+            controls.innerHTML = '';
+            return;
+        }
+        
+        controls.innerHTML = `
+            <button ${this.state.page === 1 ? 'disabled' : ''}>←</button>
+            <span>${this.state.page} / ${this.state.totalPages}</span>
+            <button ${this.state.page === this.state.totalPages ? 'disabled' : ''}>→</button>
+        `;
+        
+        controls.querySelectorAll('button').forEach((btn, i) => {
+            btn.addEventListener('click', () => {
+                const page = i === 0 ? this.state.page - 1 : this.state.page + 1;
+                this.loadProducts(page);
+            });
+        });
+    },
+
+    bindEvents() {
+        document.getElementById('searchInput').addEventListener('input', (e) => {
+            this.state.search = e.target.value;
+            this.loadProducts();
+        });
+        
+        document.getElementById('brandFilter').addEventListener('change', (e) => {
+            this.state.brand = e.target.value;
+            this.loadProducts();
+        });
+        
+        document.getElementById('typeFilter').addEventListener('change', (e) => {
+            this.state.type = e.target.value;
+            this.loadProducts();
+        });
+        
+        document.getElementById('cartIcon').addEventListener('click', () => this.toggleCart());
+        document.getElementById('closeCart').addEventListener('click', () => this.toggleCart());
+        document.getElementById('checkoutBtn').addEventListener('click', () => this.checkout());
+        
+        window.addEventListener('beforeunload', () => {
+            localStorage.setItem('cart', JSON.stringify(this.state.cart));
+        });
+    },
+
+    addToCart(id) {
+        const product = this.state.products.find(p => p.id === id);
+        if (!product) return;
+        
+        const item = this.state.cart.find(item => item.id === id);
+        
+        if (item) {
+            item.quantity += 1;
+        } else {
+            this.state.cart.push({
+                id: product.id,
+                name: product.name,
+                price: product.price,
+                pictureUrl: product.pictureUrl,
+                quantity: 1
+            });
+        }
+        
+        this.updateCart();
+    },
+
+    updateCart() {
+        const total = this.state.cart.reduce((sum, item) => sum + item.quantity, 0);
+        document.querySelector('.cart-count').textContent = total;
+        
+        const items = document.getElementById('cartItems');
+        items.innerHTML = '';
+        
+        if (this.state.cart.length === 0) {
+            items.innerHTML = '<div>Cart is empty</div>';
+            document.getElementById('cartTotal').textContent = '$0.00';
+            return;
+        }
+        
+        let price = 0;
+        
+        this.state.cart.forEach(item => {
+            const itemPrice = item.price * item.quantity;
+            price += itemPrice;
+            
+            const div = document.createElement('div');
+            div.className = 'cart-item';
+            div.innerHTML = `
+                <div class="cart-item-image">
+                    <img src="${item.pictureUrl}" alt="${item.name}">
+                </div>
+                <div class="cart-item-info">
+                    <div>${item.name}</div>
+                    <div>$${item.price.toFixed(2)} x ${item.quantity}</div>
+                    <div class="cart-item-controls">
+                        <button data-id="${item.id}" data-change="-1">-</button>
+                        <span>${item.quantity}</span>
+                        <button data-id="${item.id}" data-change="1">+</button>
+                        <button data-id="${item.id}" class="remove">X</button>
+                    </div>
+                </div>
+            `;
+            
+            div.querySelectorAll('button').forEach(btn => {
+                btn.addEventListener('click', (e) => {
+                    const id = e.target.dataset.id;
+                    const change = e.target.dataset.change;
+                    
+                    if (e.target.classList.contains('remove')) {
+                        this.removeFromCart(id);
+                    } else if (change) {
+                        this.updateQuantity(id, parseInt(change));
+                    }
+                });
+            });
+            
+            items.appendChild(div);
+        });
+        
+        document.getElementById('cartTotal').textContent = `$${price.toFixed(2)}`;
+    },
+
+    updateQuantity(id, change) {
+        const item = this.state.cart.find(item => item.id === id);
+        if (!item) return;
+        
+        item.quantity += change;
+        
+        if (item.quantity <= 0) {
+            this.removeFromCart(id);
+        } else {
+            this.updateCart();
+        }
+    },
+
+    removeFromCart(id) {
+        this.state.cart = this.state.cart.filter(item => item.id !== id);
+        this.updateCart();
+    },
+
+    toggleCart() {
+        document.getElementById('cartSidebar').classList.toggle('open');
+    },
+
+    checkout() {
+        if (this.state.cart.length === 0) {
+            alert('Cart is empty!');
+            return;
+        }
+        
+        const totalPrice = this.state.cart.reduce((sum, item) => sum + (item.price * item.quantity), 0);
+        
+        if (confirm(`Order total: $${totalPrice.toFixed(2)}\nConfirm?`)) {
+            alert('Order placed!');
+            this.state.cart = [];
+            this.updateCart();
+            this.toggleCart();
+        }
+    }
+};
+
+document.addEventListener('DOMContentLoaded', () => App.init());

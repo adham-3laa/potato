@@ -1,0 +1,51 @@
+D:\route\assinments\API\TalabatDemoSolution\PresentationLayer\bin\Debug\net8.0\PresentationLayer.deps.json
+D:\route\assinments\API\TalabatDemoSolution\PresentationLayer\bin\Debug\net8.0\PresentationLayer.dll
+D:\route\assinments\API\TalabatDemoSolution\PresentationLayer\bin\Debug\net8.0\PresentationLayer.pdb
+D:\route\assinments\API\TalabatDemoSolution\PresentationLayer\bin\Debug\net8.0\ServiceAbstractionLayer.dll
+D:\route\assinments\API\TalabatDemoSolution\PresentationLayer\bin\Debug\net8.0\Shared.dll
+D:\route\assinments\API\TalabatDemoSolution\PresentationLayer\bin\Debug\net8.0\ServiceAbstractionLayer.pdb
+D:\route\assinments\API\TalabatDemoSolution\PresentationLayer\bin\Debug\net8.0\Shared.pdb
+D:\route\assinments\API\TalabatDemoSolution\PresentationLayer\obj\Debug\net8.0\PresentationLayer.csproj.AssemblyReference.cache
+D:\route\assinments\API\TalabatDemoSolution\PresentationLayer\obj\Debug\net8.0\PresentationLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\route\assinments\API\TalabatDemoSolution\PresentationLayer\obj\Debug\net8.0\PresentationLayer.AssemblyInfoInputs.cache
+D:\route\assinments\API\TalabatDemoSolution\PresentationLayer\obj\Debug\net8.0\PresentationLayer.AssemblyInfo.cs
+D:\route\assinments\API\TalabatDemoSolution\PresentationLayer\obj\Debug\net8.0\PresentationLayer.csproj.CoreCompileInputs.cache
+D:\route\assinments\API\TalabatDemoSolution\PresentationLayer\obj\Debug\net8.0\Presenta.9C561136.Up2Date
+D:\route\assinments\API\TalabatDemoSolution\PresentationLayer\obj\Debug\net8.0\PresentationLayer.dll
+D:\route\assinments\API\TalabatDemoSolution\PresentationLayer\obj\Debug\net8.0\refint\PresentationLayer.dll
+D:\route\assinments\API\TalabatDemoSolution\PresentationLayer\obj\Debug\net8.0\PresentationLayer.pdb
+D:\route\assinments\API\TalabatDemoSolution\PresentationLayer\obj\Debug\net8.0\ref\PresentationLayer.dll
+D:\2l gm3a\Wep\API-C44-G02-API02\API-C44-G02-API04\TalabatDemoSolution\PresentationLayer\bin\Debug\net8.0\PresentationLayer.deps.json
+D:\2l gm3a\Wep\API-C44-G02-API02\API-C44-G02-API04\TalabatDemoSolution\PresentationLayer\bin\Debug\net8.0\PresentationLayer.dll
+D:\2l gm3a\Wep\API-C44-G02-API02\API-C44-G02-API04\TalabatDemoSolution\PresentationLayer\bin\Debug\net8.0\PresentationLayer.pdb
+D:\2l gm3a\Wep\API-C44-G02-API02\API-C44-G02-API04\TalabatDemoSolution\PresentationLayer\bin\Debug\net8.0\ServiceAbstractionLayer.dll
+D:\2l gm3a\Wep\API-C44-G02-API02\API-C44-G02-API04\TalabatDemoSolution\PresentationLayer\bin\Debug\net8.0\Shared.dll
+D:\2l gm3a\Wep\API-C44-G02-API02\API-C44-G02-API04\TalabatDemoSolution\PresentationLayer\bin\Debug\net8.0\ServiceAbstractionLayer.pdb
+D:\2l gm3a\Wep\API-C44-G02-API02\API-C44-G02-API04\TalabatDemoSolution\PresentationLayer\bin\Debug\net8.0\Shared.pdb
+D:\2l gm3a\Wep\API-C44-G02-API02\API-C44-G02-API04\TalabatDemoSolution\PresentationLayer\obj\Debug\net8.0\PresentationLayer.csproj.AssemblyReference.cache
+D:\2l gm3a\Wep\API-C44-G02-API02\API-C44-G02-API04\TalabatDemoSolution\PresentationLayer\obj\Debug\net8.0\PresentationLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\2l gm3a\Wep\API-C44-G02-API02\API-C44-G02-API04\TalabatDemoSolution\PresentationLayer\obj\Debug\net8.0\PresentationLayer.AssemblyInfoInputs.cache
+D:\2l gm3a\Wep\API-C44-G02-API02\API-C44-G02-API04\TalabatDemoSolution\PresentationLayer\obj\Debug\net8.0\PresentationLayer.AssemblyInfo.cs
+D:\2l gm3a\Wep\API-C44-G02-API02\API-C44-G02-API04\TalabatDemoSolution\PresentationLayer\obj\Debug\net8.0\PresentationLayer.csproj.CoreCompileInputs.cache
+D:\2l gm3a\Wep\API-C44-G02-API02\API-C44-G02-API04\TalabatDemoSolution\PresentationLayer\obj\Debug\net8.0\Presenta.9C561136.Up2Date
+D:\2l gm3a\Wep\API-C44-G02-API02\API-C44-G02-API04\TalabatDemoSolution\PresentationLayer\obj\Debug\net8.0\PresentationLayer.dll
+D:\2l gm3a\Wep\API-C44-G02-API02\API-C44-G02-API04\TalabatDemoSolution\PresentationLayer\obj\Debug\net8.0\refint\PresentationLayer.dll
+D:\2l gm3a\Wep\API-C44-G02-API02\API-C44-G02-API04\TalabatDemoSolution\PresentationLayer\obj\Debug\net8.0\PresentationLayer.pdb
+D:\2l gm3a\Wep\API-C44-G02-API02\API-C44-G02-API04\TalabatDemoSolution\PresentationLayer\obj\Debug\net8.0\ref\PresentationLayer.dll
+D:\2l gm3a\Wep\API-C44-G02-API02\TalabatDemoSolution\PresentationLayer\bin\Debug\net8.0\PresentationLayer.deps.json
+D:\2l gm3a\Wep\API-C44-G02-API02\TalabatDemoSolution\PresentationLayer\bin\Debug\net8.0\PresentationLayer.dll
+D:\2l gm3a\Wep\API-C44-G02-API02\TalabatDemoSolution\PresentationLayer\bin\Debug\net8.0\PresentationLayer.pdb
+D:\2l gm3a\Wep\API-C44-G02-API02\TalabatDemoSolution\PresentationLayer\bin\Debug\net8.0\ServiceAbstractionLayer.dll
+D:\2l gm3a\Wep\API-C44-G02-API02\TalabatDemoSolution\PresentationLayer\bin\Debug\net8.0\Shared.dll
+D:\2l gm3a\Wep\API-C44-G02-API02\TalabatDemoSolution\PresentationLayer\bin\Debug\net8.0\ServiceAbstractionLayer.pdb
+D:\2l gm3a\Wep\API-C44-G02-API02\TalabatDemoSolution\PresentationLayer\bin\Debug\net8.0\Shared.pdb
+D:\2l gm3a\Wep\API-C44-G02-API02\TalabatDemoSolution\PresentationLayer\obj\Debug\net8.0\PresentationLayer.csproj.AssemblyReference.cache
+D:\2l gm3a\Wep\API-C44-G02-API02\TalabatDemoSolution\PresentationLayer\obj\Debug\net8.0\PresentationLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\2l gm3a\Wep\API-C44-G02-API02\TalabatDemoSolution\PresentationLayer\obj\Debug\net8.0\PresentationLayer.AssemblyInfoInputs.cache
+D:\2l gm3a\Wep\API-C44-G02-API02\TalabatDemoSolution\PresentationLayer\obj\Debug\net8.0\PresentationLayer.AssemblyInfo.cs
+D:\2l gm3a\Wep\API-C44-G02-API02\TalabatDemoSolution\PresentationLayer\obj\Debug\net8.0\PresentationLayer.csproj.CoreCompileInputs.cache
+D:\2l gm3a\Wep\API-C44-G02-API02\TalabatDemoSolution\PresentationLayer\obj\Debug\net8.0\Presenta.9C561136.Up2Date
+D:\2l gm3a\Wep\API-C44-G02-API02\TalabatDemoSolution\PresentationLayer\obj\Debug\net8.0\PresentationLayer.dll
+D:\2l gm3a\Wep\API-C44-G02-API02\TalabatDemoSolution\PresentationLayer\obj\Debug\net8.0\refint\PresentationLayer.dll
+D:\2l gm3a\Wep\API-C44-G02-API02\TalabatDemoSolution\PresentationLayer\obj\Debug\net8.0\PresentationLayer.pdb
+D:\2l gm3a\Wep\API-C44-G02-API02\TalabatDemoSolution\PresentationLayer\obj\Debug\net8.0\ref\PresentationLayer.dll

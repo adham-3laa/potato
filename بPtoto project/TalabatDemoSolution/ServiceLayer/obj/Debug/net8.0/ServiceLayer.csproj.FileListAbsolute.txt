@@ -1,0 +1,57 @@
+D:\route\assinments\API\TalabatDemoSolution\ServiceLayer\bin\Debug\net8.0\ServiceLayer.deps.json
+D:\route\assinments\API\TalabatDemoSolution\ServiceLayer\bin\Debug\net8.0\ServiceLayer.dll
+D:\route\assinments\API\TalabatDemoSolution\ServiceLayer\bin\Debug\net8.0\ServiceLayer.pdb
+D:\route\assinments\API\TalabatDemoSolution\ServiceLayer\bin\Debug\net8.0\DomainLayer.dll
+D:\route\assinments\API\TalabatDemoSolution\ServiceLayer\bin\Debug\net8.0\ServiceAbstractionLayer.dll
+D:\route\assinments\API\TalabatDemoSolution\ServiceLayer\bin\Debug\net8.0\Shared.dll
+D:\route\assinments\API\TalabatDemoSolution\ServiceLayer\bin\Debug\net8.0\DomainLayer.pdb
+D:\route\assinments\API\TalabatDemoSolution\ServiceLayer\bin\Debug\net8.0\ServiceAbstractionLayer.pdb
+D:\route\assinments\API\TalabatDemoSolution\ServiceLayer\bin\Debug\net8.0\Shared.pdb
+D:\route\assinments\API\TalabatDemoSolution\ServiceLayer\obj\Debug\net8.0\ServiceLayer.csproj.AssemblyReference.cache
+D:\route\assinments\API\TalabatDemoSolution\ServiceLayer\obj\Debug\net8.0\ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\route\assinments\API\TalabatDemoSolution\ServiceLayer\obj\Debug\net8.0\ServiceLayer.AssemblyInfoInputs.cache
+D:\route\assinments\API\TalabatDemoSolution\ServiceLayer\obj\Debug\net8.0\ServiceLayer.AssemblyInfo.cs
+D:\route\assinments\API\TalabatDemoSolution\ServiceLayer\obj\Debug\net8.0\ServiceLayer.csproj.CoreCompileInputs.cache
+D:\route\assinments\API\TalabatDemoSolution\ServiceLayer\obj\Debug\net8.0\ServiceL.3037F684.Up2Date
+D:\route\assinments\API\TalabatDemoSolution\ServiceLayer\obj\Debug\net8.0\ServiceLayer.dll
+D:\route\assinments\API\TalabatDemoSolution\ServiceLayer\obj\Debug\net8.0\refint\ServiceLayer.dll
+D:\route\assinments\API\TalabatDemoSolution\ServiceLayer\obj\Debug\net8.0\ServiceLayer.pdb
+D:\route\assinments\API\TalabatDemoSolution\ServiceLayer\obj\Debug\net8.0\ref\ServiceLayer.dll
+D:\2l gm3a\Wep\API-C44-G02-API02\API-C44-G02-API04\TalabatDemoSolution\ServiceLayer\bin\Debug\net8.0\ServiceLayer.deps.json
+D:\2l gm3a\Wep\API-C44-G02-API02\API-C44-G02-API04\TalabatDemoSolution\ServiceLayer\bin\Debug\net8.0\ServiceLayer.dll
+D:\2l gm3a\Wep\API-C44-G02-API02\API-C44-G02-API04\TalabatDemoSolution\ServiceLayer\bin\Debug\net8.0\ServiceLayer.pdb
+D:\2l gm3a\Wep\API-C44-G02-API02\API-C44-G02-API04\TalabatDemoSolution\ServiceLayer\bin\Debug\net8.0\DomainLayer.dll
+D:\2l gm3a\Wep\API-C44-G02-API02\API-C44-G02-API04\TalabatDemoSolution\ServiceLayer\bin\Debug\net8.0\ServiceAbstractionLayer.dll
+D:\2l gm3a\Wep\API-C44-G02-API02\API-C44-G02-API04\TalabatDemoSolution\ServiceLayer\bin\Debug\net8.0\Shared.dll
+D:\2l gm3a\Wep\API-C44-G02-API02\API-C44-G02-API04\TalabatDemoSolution\ServiceLayer\bin\Debug\net8.0\DomainLayer.pdb
+D:\2l gm3a\Wep\API-C44-G02-API02\API-C44-G02-API04\TalabatDemoSolution\ServiceLayer\bin\Debug\net8.0\ServiceAbstractionLayer.pdb
+D:\2l gm3a\Wep\API-C44-G02-API02\API-C44-G02-API04\TalabatDemoSolution\ServiceLayer\bin\Debug\net8.0\Shared.pdb
+D:\2l gm3a\Wep\API-C44-G02-API02\API-C44-G02-API04\TalabatDemoSolution\ServiceLayer\obj\Debug\net8.0\ServiceLayer.csproj.AssemblyReference.cache
+D:\2l gm3a\Wep\API-C44-G02-API02\API-C44-G02-API04\TalabatDemoSolution\ServiceLayer\obj\Debug\net8.0\ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\2l gm3a\Wep\API-C44-G02-API02\API-C44-G02-API04\TalabatDemoSolution\ServiceLayer\obj\Debug\net8.0\ServiceLayer.AssemblyInfoInputs.cache
+D:\2l gm3a\Wep\API-C44-G02-API02\API-C44-G02-API04\TalabatDemoSolution\ServiceLayer\obj\Debug\net8.0\ServiceLayer.AssemblyInfo.cs
+D:\2l gm3a\Wep\API-C44-G02-API02\API-C44-G02-API04\TalabatDemoSolution\ServiceLayer\obj\Debug\net8.0\ServiceLayer.csproj.CoreCompileInputs.cache
+D:\2l gm3a\Wep\API-C44-G02-API02\API-C44-G02-API04\TalabatDemoSolution\ServiceLayer\obj\Debug\net8.0\ServiceL.3037F684.Up2Date
+D:\2l gm3a\Wep\API-C44-G02-API02\API-C44-G02-API04\TalabatDemoSolution\ServiceLayer\obj\Debug\net8.0\ServiceLayer.dll
+D:\2l gm3a\Wep\API-C44-G02-API02\API-C44-G02-API04\TalabatDemoSolution\ServiceLayer\obj\Debug\net8.0\refint\ServiceLayer.dll
+D:\2l gm3a\Wep\API-C44-G02-API02\API-C44-G02-API04\TalabatDemoSolution\ServiceLayer\obj\Debug\net8.0\ServiceLayer.pdb
+D:\2l gm3a\Wep\API-C44-G02-API02\API-C44-G02-API04\TalabatDemoSolution\ServiceLayer\obj\Debug\net8.0\ref\ServiceLayer.dll
+D:\2l gm3a\Wep\API-C44-G02-API02\TalabatDemoSolution\ServiceLayer\bin\Debug\net8.0\ServiceLayer.deps.json
+D:\2l gm3a\Wep\API-C44-G02-API02\TalabatDemoSolution\ServiceLayer\bin\Debug\net8.0\ServiceLayer.dll
+D:\2l gm3a\Wep\API-C44-G02-API02\TalabatDemoSolution\ServiceLayer\bin\Debug\net8.0\ServiceLayer.pdb
+D:\2l gm3a\Wep\API-C44-G02-API02\TalabatDemoSolution\ServiceLayer\bin\Debug\net8.0\DomainLayer.dll
+D:\2l gm3a\Wep\API-C44-G02-API02\TalabatDemoSolution\ServiceLayer\bin\Debug\net8.0\ServiceAbstractionLayer.dll
+D:\2l gm3a\Wep\API-C44-G02-API02\TalabatDemoSolution\ServiceLayer\bin\Debug\net8.0\Shared.dll
+D:\2l gm3a\Wep\API-C44-G02-API02\TalabatDemoSolution\ServiceLayer\bin\Debug\net8.0\DomainLayer.pdb
+D:\2l gm3a\Wep\API-C44-G02-API02\TalabatDemoSolution\ServiceLayer\bin\Debug\net8.0\ServiceAbstractionLayer.pdb
+D:\2l gm3a\Wep\API-C44-G02-API02\TalabatDemoSolution\ServiceLayer\bin\Debug\net8.0\Shared.pdb
+D:\2l gm3a\Wep\API-C44-G02-API02\TalabatDemoSolution\ServiceLayer\obj\Debug\net8.0\ServiceLayer.csproj.AssemblyReference.cache
+D:\2l gm3a\Wep\API-C44-G02-API02\TalabatDemoSolution\ServiceLayer\obj\Debug\net8.0\ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\2l gm3a\Wep\API-C44-G02-API02\TalabatDemoSolution\ServiceLayer\obj\Debug\net8.0\ServiceLayer.AssemblyInfoInputs.cache
+D:\2l gm3a\Wep\API-C44-G02-API02\TalabatDemoSolution\ServiceLayer\obj\Debug\net8.0\ServiceLayer.AssemblyInfo.cs
+D:\2l gm3a\Wep\API-C44-G02-API02\TalabatDemoSolution\ServiceLayer\obj\Debug\net8.0\ServiceLayer.csproj.CoreCompileInputs.cache
+D:\2l gm3a\Wep\API-C44-G02-API02\TalabatDemoSolution\ServiceLayer\obj\Debug\net8.0\ServiceL.3037F684.Up2Date
+D:\2l gm3a\Wep\API-C44-G02-API02\TalabatDemoSolution\ServiceLayer\obj\Debug\net8.0\ServiceLayer.dll
+D:\2l gm3a\Wep\API-C44-G02-API02\TalabatDemoSolution\ServiceLayer\obj\Debug\net8.0\refint\ServiceLayer.dll
+D:\2l gm3a\Wep\API-C44-G02-API02\TalabatDemoSolution\ServiceLayer\obj\Debug\net8.0\ServiceLayer.pdb
+D:\2l gm3a\Wep\API-C44-G02-API02\TalabatDemoSolution\ServiceLayer\obj\Debug\net8.0\ref\ServiceLayer.dll

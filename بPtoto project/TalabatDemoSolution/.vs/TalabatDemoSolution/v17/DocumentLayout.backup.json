@@ -1,0 +1,989 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93771596-3FD3-4695-B7FD-9DD0BB06F391}|PresentationLayer\\PresentationLayer.csproj|d:\\2l gm3a\\wep\\api-c44-g02-api02\\talabatdemosolution\\presentationlayer\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93771596-3FD3-4695-B7FD-9DD0BB06F391}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3405ABB7-D806-4CDA-BDBB-64905B2E60D8}|ServiceLayer\\ServiceLayer.csproj|d:\\2l gm3a\\wep\\api-c44-g02-api02\\talabatdemosolution\\servicelayer\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3405ABB7-D806-4CDA-BDBB-64905B2E60D8}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94315B34-C5DE-486E-A76D-42A7D1B701A3}|TalabatDemo\\TalabatDemo.csproj|d:\\2l gm3a\\wep\\api-c44-g02-api02\\talabatdemosolution\\talabatdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94315B34-C5DE-486E-A76D-42A7D1B701A3}|TalabatDemo\\TalabatDemo.csproj|solutionrelative:talabatdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94315B34-C5DE-486E-A76D-42A7D1B701A3}|TalabatDemo\\TalabatDemo.csproj|d:\\2l gm3a\\wep\\api-c44-g02-api02\\talabatdemosolution\\talabatdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{94315B34-C5DE-486E-A76D-42A7D1B701A3}|TalabatDemo\\TalabatDemo.csproj|solutionrelative:talabatdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588BCBFD-EDAC-4E6C-97F1-56F6D1D788C8}|Shared\\Shared.csproj|d:\\2l gm3a\\wep\\api-c44-g02-api02\\talabatdemosolution\\shared\\productqueryparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{588BCBFD-EDAC-4E6C-97F1-56F6D1D788C8}|Shared\\Shared.csproj|solutionrelative:shared\\productqueryparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E46CDA0A-B5F3-4F21-99B3-33D6E6281C6D}|PersintenceLayer\\PersintenceLayer.csproj|d:\\2l gm3a\\wep\\api-c44-g02-api02\\talabatdemosolution\\persintencelayer\\repositorys\\basketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E46CDA0A-B5F3-4F21-99B3-33D6E6281C6D}|PersintenceLayer\\PersintenceLayer.csproj|solutionrelative:persintencelayer\\repositorys\\basketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F7ACEB-53B8-439A-B23A-D9C047F2374F}|DomainLayer\\DomainLayer.csproj|d:\\2l gm3a\\wep\\api-c44-g02-api02\\talabatdemosolution\\domainlayer\\exceptions\\redisnotavailableexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F7ACEB-53B8-439A-B23A-D9C047F2374F}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\exceptions\\redisnotavailableexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94315B34-C5DE-486E-A76D-42A7D1B701A3}|TalabatDemo\\TalabatDemo.csproj|d:\\2l gm3a\\wep\\api-c44-g02-api02\\talabatdemosolution\\talabatdemo\\custommiddlewares\\customexceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94315B34-C5DE-486E-A76D-42A7D1B701A3}|TalabatDemo\\TalabatDemo.csproj|solutionrelative:talabatdemo\\custommiddlewares\\customexceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3405ABB7-D806-4CDA-BDBB-64905B2E60D8}|ServiceLayer\\ServiceLayer.csproj|d:\\2l gm3a\\wep\\api-c44-g02-api02\\talabatdemosolution\\servicelayer\\basketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3405ABB7-D806-4CDA-BDBB-64905B2E60D8}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\basketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E46CDA0A-B5F3-4F21-99B3-33D6E6281C6D}|PersintenceLayer\\PersintenceLayer.csproj|d:\\2l gm3a\\wep\\api-c44-g02-api02\\talabatdemosolution\\persintencelayer\\infrastructureservicesregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E46CDA0A-B5F3-4F21-99B3-33D6E6281C6D}|PersintenceLayer\\PersintenceLayer.csproj|solutionrelative:persintencelayer\\infrastructureservicesregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94315B34-C5DE-486E-A76D-42A7D1B701A3}|TalabatDemo\\TalabatDemo.csproj|d:\\2l gm3a\\wep\\api-c44-g02-api02\\talabatdemosolution\\talabatdemo\\extensions\\serviceregisteration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94315B34-C5DE-486E-A76D-42A7D1B701A3}|TalabatDemo\\TalabatDemo.csproj|solutionrelative:talabatdemo\\extensions\\serviceregisteration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3405ABB7-D806-4CDA-BDBB-64905B2E60D8}|ServiceLayer\\ServiceLayer.csproj|d:\\2l gm3a\\wep\\api-c44-g02-api02\\talabatdemosolution\\servicelayer\\applicationservicesregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3405ABB7-D806-4CDA-BDBB-64905B2E60D8}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\applicationservicesregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3405ABB7-D806-4CDA-BDBB-64905B2E60D8}|ServiceLayer\\ServiceLayer.csproj|d:\\2l gm3a\\wep\\api-c44-g02-api02\\talabatdemosolution\\servicelayer\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3405ABB7-D806-4CDA-BDBB-64905B2E60D8}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3405ABB7-D806-4CDA-BDBB-64905B2E60D8}|ServiceLayer\\ServiceLayer.csproj|d:\\2l gm3a\\wep\\api-c44-g02-api02\\talabatdemosolution\\servicelayer\\mappingprofiles\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3405ABB7-D806-4CDA-BDBB-64905B2E60D8}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\mappingprofiles\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3405ABB7-D806-4CDA-BDBB-64905B2E60D8}|ServiceLayer\\ServiceLayer.csproj|d:\\2l gm3a\\wep\\api-c44-g02-api02\\talabatdemosolution\\servicelayer\\mappingprofiles\\pictureurlresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3405ABB7-D806-4CDA-BDBB-64905B2E60D8}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\mappingprofiles\\pictureurlresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{700FCA21-B401-44C1-9FB7-A8F813F0A358}|ServiceAbstractionLayer\\ServiceAbstractionLayer.csproj|d:\\2l gm3a\\wep\\api-c44-g02-api02\\talabatdemosolution\\serviceabstractionlayer\\iservicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{700FCA21-B401-44C1-9FB7-A8F813F0A358}|ServiceAbstractionLayer\\ServiceAbstractionLayer.csproj|solutionrelative:serviceabstractionlayer\\iservicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{700FCA21-B401-44C1-9FB7-A8F813F0A358}|ServiceAbstractionLayer\\ServiceAbstractionLayer.csproj|d:\\2l gm3a\\wep\\api-c44-g02-api02\\talabatdemosolution\\serviceabstractionlayer\\ibasketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{700FCA21-B401-44C1-9FB7-A8F813F0A358}|ServiceAbstractionLayer\\ServiceAbstractionLayer.csproj|solutionrelative:serviceabstractionlayer\\ibasketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{700FCA21-B401-44C1-9FB7-A8F813F0A358}|ServiceAbstractionLayer\\ServiceAbstractionLayer.csproj|d:\\2l gm3a\\wep\\api-c44-g02-api02\\talabatdemosolution\\serviceabstractionlayer\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{700FCA21-B401-44C1-9FB7-A8F813F0A358}|ServiceAbstractionLayer\\ServiceAbstractionLayer.csproj|solutionrelative:serviceabstractionlayer\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F7ACEB-53B8-439A-B23A-D9C047F2374F}|DomainLayer\\DomainLayer.csproj|d:\\2l gm3a\\wep\\api-c44-g02-api02\\talabatdemosolution\\domainlayer\\exceptions\\basketnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F7ACEB-53B8-439A-B23A-D9C047F2374F}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\exceptions\\basketnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F7ACEB-53B8-439A-B23A-D9C047F2374F}|DomainLayer\\DomainLayer.csproj|d:\\2l gm3a\\wep\\api-c44-g02-api02\\talabatdemosolution\\domainlayer\\exceptions\\unauthorizedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F7ACEB-53B8-439A-B23A-D9C047F2374F}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\exceptions\\unauthorizedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F7ACEB-53B8-439A-B23A-D9C047F2374F}|DomainLayer\\DomainLayer.csproj|d:\\2l gm3a\\wep\\api-c44-g02-api02\\talabatdemosolution\\domainlayer\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F7ACEB-53B8-439A-B23A-D9C047F2374F}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F7ACEB-53B8-439A-B23A-D9C047F2374F}|DomainLayer\\DomainLayer.csproj|d:\\2l gm3a\\wep\\api-c44-g02-api02\\talabatdemosolution\\domainlayer\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F7ACEB-53B8-439A-B23A-D9C047F2374F}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3405ABB7-D806-4CDA-BDBB-64905B2E60D8}|ServiceLayer\\ServiceLayer.csproj|d:\\2l gm3a\\wep\\api-c44-g02-api02\\talabatdemosolution\\servicelayer\\mappingprofiles\\basketprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3405ABB7-D806-4CDA-BDBB-64905B2E60D8}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\mappingprofiles\\basketprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3405ABB7-D806-4CDA-BDBB-64905B2E60D8}|ServiceLayer\\ServiceLayer.csproj|d:\\2l gm3a\\wep\\api-c44-g02-api02\\talabatdemosolution\\servicelayer\\servicelayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3405ABB7-D806-4CDA-BDBB-64905B2E60D8}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\servicelayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588BCBFD-EDAC-4E6C-97F1-56F6D1D788C8}|Shared\\Shared.csproj|d:\\2l gm3a\\wep\\api-c44-g02-api02\\talabatdemosolution\\shared\\dtos\\basketdtos\\basketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{588BCBFD-EDAC-4E6C-97F1-56F6D1D788C8}|Shared\\Shared.csproj|solutionrelative:shared\\dtos\\basketdtos\\basketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588BCBFD-EDAC-4E6C-97F1-56F6D1D788C8}|Shared\\Shared.csproj|d:\\2l gm3a\\wep\\api-c44-g02-api02\\talabatdemosolution\\shared\\dtos\\basketdtos\\basketitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{588BCBFD-EDAC-4E6C-97F1-56F6D1D788C8}|Shared\\Shared.csproj|solutionrelative:shared\\dtos\\basketdtos\\basketitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588BCBFD-EDAC-4E6C-97F1-56F6D1D788C8}|Shared\\Shared.csproj|d:\\2l gm3a\\wep\\api-c44-g02-api02\\talabatdemosolution\\shared\\dtos\\productdtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{588BCBFD-EDAC-4E6C-97F1-56F6D1D788C8}|Shared\\Shared.csproj|solutionrelative:shared\\dtos\\productdtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588BCBFD-EDAC-4E6C-97F1-56F6D1D788C8}|Shared\\Shared.csproj|d:\\2l gm3a\\wep\\api-c44-g02-api02\\talabatdemosolution\\shared\\dtos\\productdtos\\typedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{588BCBFD-EDAC-4E6C-97F1-56F6D1D788C8}|Shared\\Shared.csproj|solutionrelative:shared\\dtos\\productdtos\\typedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588BCBFD-EDAC-4E6C-97F1-56F6D1D788C8}|Shared\\Shared.csproj|d:\\2l gm3a\\wep\\api-c44-g02-api02\\talabatdemosolution\\shared\\dtos\\productdtos\\branddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{588BCBFD-EDAC-4E6C-97F1-56F6D1D788C8}|Shared\\Shared.csproj|solutionrelative:shared\\dtos\\productdtos\\branddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E46CDA0A-B5F3-4F21-99B3-33D6E6281C6D}|PersintenceLayer\\PersintenceLayer.csproj|d:\\2l gm3a\\wep\\api-c44-g02-api02\\talabatdemosolution\\persintencelayer\\repositorys\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E46CDA0A-B5F3-4F21-99B3-33D6E6281C6D}|PersintenceLayer\\PersintenceLayer.csproj|solutionrelative:persintencelayer\\repositorys\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F7ACEB-53B8-439A-B23A-D9C047F2374F}|DomainLayer\\DomainLayer.csproj|d:\\2l gm3a\\wep\\api-c44-g02-api02\\talabatdemosolution\\domainlayer\\contracts\\ibasketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F7ACEB-53B8-439A-B23A-D9C047F2374F}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\contracts\\ibasketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F7ACEB-53B8-439A-B23A-D9C047F2374F}|DomainLayer\\DomainLayer.csproj|d:\\2l gm3a\\wep\\api-c44-g02-api02\\talabatdemosolution\\domainlayer\\models\\basket\\basketitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F7ACEB-53B8-439A-B23A-D9C047F2374F}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\models\\basket\\basketitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F7ACEB-53B8-439A-B23A-D9C047F2374F}|DomainLayer\\DomainLayer.csproj|d:\\2l gm3a\\wep\\api-c44-g02-api02\\talabatdemosolution\\domainlayer\\models\\basket\\customerbasket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F7ACEB-53B8-439A-B23A-D9C047F2374F}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\models\\basket\\customerbasket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F7ACEB-53B8-439A-B23A-D9C047F2374F}|DomainLayer\\DomainLayer.csproj|d:\\2l gm3a\\wep\\api-c44-g02-api02\\talabatdemosolution\\domainlayer\\contracts\\idataseeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F7ACEB-53B8-439A-B23A-D9C047F2374F}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\contracts\\idataseeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588BCBFD-EDAC-4E6C-97F1-56F6D1D788C8}|Shared\\Shared.csproj|d:\\2l gm3a\\wep\\api-c44-g02-api02\\talabatdemosolution\\shared\\errormodels\\errortoreturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{588BCBFD-EDAC-4E6C-97F1-56F6D1D788C8}|Shared\\Shared.csproj|solutionrelative:shared\\errormodels\\errortoreturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94315B34-C5DE-486E-A76D-42A7D1B701A3}|TalabatDemo\\TalabatDemo.csproj|d:\\2l gm3a\\wep\\api-c44-g02-api02\\talabatdemosolution\\talabatdemo\\factories\\apiresponsefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94315B34-C5DE-486E-A76D-42A7D1B701A3}|TalabatDemo\\TalabatDemo.csproj|solutionrelative:talabatdemo\\factories\\apiresponsefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94315B34-C5DE-486E-A76D-42A7D1B701A3}|TalabatDemo\\TalabatDemo.csproj|d:\\2l gm3a\\wep\\api-c44-g02-api02\\talabatdemosolution\\talabatdemo\\filters\\validatemodelattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94315B34-C5DE-486E-A76D-42A7D1B701A3}|TalabatDemo\\TalabatDemo.csproj|solutionrelative:talabatdemo\\filters\\validatemodelattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F7ACEB-53B8-439A-B23A-D9C047F2374F}|DomainLayer\\DomainLayer.csproj|d:\\2l gm3a\\wep\\api-c44-g02-api02\\talabatdemosolution\\domainlayer\\models\\products\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F7ACEB-53B8-439A-B23A-D9C047F2374F}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\models\\products\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F7ACEB-53B8-439A-B23A-D9C047F2374F}|DomainLayer\\DomainLayer.csproj|d:\\2l gm3a\\wep\\api-c44-g02-api02\\talabatdemosolution\\domainlayer\\models\\products\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F7ACEB-53B8-439A-B23A-D9C047F2374F}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\models\\products\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94315B34-C5DE-486E-A76D-42A7D1B701A3}|TalabatDemo\\TalabatDemo.csproj|d:\\2l gm3a\\wep\\api-c44-g02-api02\\talabatdemosolution\\talabatdemo\\extensions\\webapplicationregisteration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94315B34-C5DE-486E-A76D-42A7D1B701A3}|TalabatDemo\\TalabatDemo.csproj|solutionrelative:talabatdemo\\extensions\\webapplicationregisteration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E46CDA0A-B5F3-4F21-99B3-33D6E6281C6D}|PersintenceLayer\\PersintenceLayer.csproj|d:\\2l gm3a\\wep\\api-c44-g02-api02\\talabatdemosolution\\persintencelayer\\dataseeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E46CDA0A-B5F3-4F21-99B3-33D6E6281C6D}|PersintenceLayer\\PersintenceLayer.csproj|solutionrelative:persintencelayer\\dataseeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3405ABB7-D806-4CDA-BDBB-64905B2E60D8}|ServiceLayer\\ServiceLayer.csproj|d:\\2l gm3a\\wep\\api-c44-g02-api02\\talabatdemosolution\\servicelayer\\specifications\\productcountspecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3405ABB7-D806-4CDA-BDBB-64905B2E60D8}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\specifications\\productcountspecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F7ACEB-53B8-439A-B23A-D9C047F2374F}|DomainLayer\\DomainLayer.csproj|d:\\2l gm3a\\wep\\api-c44-g02-api02\\talabatdemosolution\\domainlayer\\contracts\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F7ACEB-53B8-439A-B23A-D9C047F2374F}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\contracts\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588BCBFD-EDAC-4E6C-97F1-56F6D1D788C8}|Shared\\Shared.csproj|d:\\2l gm3a\\wep\\api-c44-g02-api02\\talabatdemosolution\\shared\\paginatedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{588BCBFD-EDAC-4E6C-97F1-56F6D1D788C8}|Shared\\Shared.csproj|solutionrelative:shared\\paginatedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E46CDA0A-B5F3-4F21-99B3-33D6E6281C6D}|PersintenceLayer\\PersintenceLayer.csproj|d:\\2l gm3a\\wep\\api-c44-g02-api02\\talabatdemosolution\\persintencelayer\\repositorys\\specificationevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E46CDA0A-B5F3-4F21-99B3-33D6E6281C6D}|PersintenceLayer\\PersintenceLayer.csproj|solutionrelative:persintencelayer\\repositorys\\specificationevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F7ACEB-53B8-439A-B23A-D9C047F2374F}|DomainLayer\\DomainLayer.csproj|d:\\2l gm3a\\wep\\api-c44-g02-api02\\talabatdemosolution\\domainlayer\\contracts\\ispecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F7ACEB-53B8-439A-B23A-D9C047F2374F}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\contracts\\ispecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3405ABB7-D806-4CDA-BDBB-64905B2E60D8}|ServiceLayer\\ServiceLayer.csproj|d:\\2l gm3a\\wep\\api-c44-g02-api02\\talabatdemosolution\\servicelayer\\specifications\\productwithbrandandtypespecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3405ABB7-D806-4CDA-BDBB-64905B2E60D8}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\specifications\\productwithbrandandtypespecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3405ABB7-D806-4CDA-BDBB-64905B2E60D8}|ServiceLayer\\ServiceLayer.csproj|d:\\2l gm3a\\wep\\api-c44-g02-api02\\talabatdemosolution\\servicelayer\\specifications\\basespecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3405ABB7-D806-4CDA-BDBB-64905B2E60D8}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\specifications\\basespecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588BCBFD-EDAC-4E6C-97F1-56F6D1D788C8}|Shared\\Shared.csproj|d:\\2l gm3a\\wep\\api-c44-g02-api02\\talabatdemosolution\\shared\\productsortingoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{588BCBFD-EDAC-4E6C-97F1-56F6D1D788C8}|Shared\\Shared.csproj|solutionrelative:shared\\productsortingoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93771596-3FD3-4695-B7FD-9DD0BB06F391}|PresentationLayer\\PresentationLayer.csproj|d:\\2l gm3a\\wep\\api-c44-g02-api02\\talabatdemosolution\\presentationlayer\\presentationlayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{93771596-3FD3-4695-B7FD-9DD0BB06F391}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\presentationlayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E46CDA0A-B5F3-4F21-99B3-33D6E6281C6D}|PersintenceLayer\\PersintenceLayer.csproj|d:\\2l gm3a\\wep\\api-c44-g02-api02\\talabatdemosolution\\persintencelayer\\data\\storedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E46CDA0A-B5F3-4F21-99B3-33D6E6281C6D}|PersintenceLayer\\PersintenceLayer.csproj|solutionrelative:persintencelayer\\data\\storedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E46CDA0A-B5F3-4F21-99B3-33D6E6281C6D}|PersintenceLayer\\PersintenceLayer.csproj|d:\\2l gm3a\\wep\\api-c44-g02-api02\\talabatdemosolution\\persintencelayer\\data\\configurations\\productconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E46CDA0A-B5F3-4F21-99B3-33D6E6281C6D}|PersintenceLayer\\PersintenceLayer.csproj|solutionrelative:persintencelayer\\data\\configurations\\productconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94315B34-C5DE-486E-A76D-42A7D1B701A3}|TalabatDemo\\TalabatDemo.csproj|d:\\2l gm3a\\wep\\api-c44-g02-api02\\talabatdemosolution\\talabatdemo\\talabatdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{94315B34-C5DE-486E-A76D-42A7D1B701A3}|TalabatDemo\\TalabatDemo.csproj|solutionrelative:talabatdemo\\talabatdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3405ABB7-D806-4CDA-BDBB-64905B2E60D8}|ServiceLayer\\ServiceLayer.csproj|d:\\2l gm3a\\wep\\api-c44-g02-api02\\talabatdemosolution\\servicelayer\\servicelayerassemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3405ABB7-D806-4CDA-BDBB-64905B2E60D8}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\servicelayerassemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E46CDA0A-B5F3-4F21-99B3-33D6E6281C6D}|PersintenceLayer\\PersintenceLayer.csproj|d:\\2l gm3a\\wep\\api-c44-g02-api02\\talabatdemosolution\\persintencelayer\\repositorys\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E46CDA0A-B5F3-4F21-99B3-33D6E6281C6D}|PersintenceLayer\\PersintenceLayer.csproj|solutionrelative:persintencelayer\\repositorys\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F7ACEB-53B8-439A-B23A-D9C047F2374F}|DomainLayer\\DomainLayer.csproj|d:\\2l gm3a\\wep\\api-c44-g02-api02\\talabatdemosolution\\domainlayer\\contracts\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F7ACEB-53B8-439A-B23A-D9C047F2374F}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\contracts\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E46CDA0A-B5F3-4F21-99B3-33D6E6281C6D}|PersintenceLayer\\PersintenceLayer.csproj|d:\\2l gm3a\\wep\\api-c44-g02-api02\\talabatdemosolution\\persintencelayer\\data\\migrations\\20251027094904_onitialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E46CDA0A-B5F3-4F21-99B3-33D6E6281C6D}|PersintenceLayer\\PersintenceLayer.csproj|solutionrelative:persintencelayer\\data\\migrations\\20251027094904_onitialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F7ACEB-53B8-439A-B23A-D9C047F2374F}|DomainLayer\\DomainLayer.csproj|d:\\2l gm3a\\wep\\api-c44-g02-api02\\talabatdemosolution\\domainlayer\\models\\products\\productbrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F7ACEB-53B8-439A-B23A-D9C047F2374F}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\models\\products\\productbrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F7ACEB-53B8-439A-B23A-D9C047F2374F}|DomainLayer\\DomainLayer.csproj|d:\\2l gm3a\\wep\\api-c44-g02-api02\\talabatdemosolution\\domainlayer\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F7ACEB-53B8-439A-B23A-D9C047F2374F}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E46CDA0A-B5F3-4F21-99B3-33D6E6281C6D}|PersintenceLayer\\PersintenceLayer.csproj|d:\\2l gm3a\\wep\\api-c44-g02-api02\\talabatdemosolution\\persintencelayer\\data\\migrations\\20251030174707_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E46CDA0A-B5F3-4F21-99B3-33D6E6281C6D}|PersintenceLayer\\PersintenceLayer.csproj|solutionrelative:persintencelayer\\data\\migrations\\20251030174707_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InfrastructureServicesRegistration.cs",
+              "DocumentMoniker": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\PersintenceLayer\\InfrastructureServicesRegistration.cs",
+              "RelativeDocumentMoniker": "PersintenceLayer\\InfrastructureServicesRegistration.cs",
+              "ToolTip": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\PersintenceLayer\\InfrastructureServicesRegistration.cs",
+              "RelativeToolTip": "PersintenceLayer\\InfrastructureServicesRegistration.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T20:29:18.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomExceptionHandlerMiddleWare.cs",
+              "DocumentMoniker": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\TalabatDemo\\CustomMiddleWares\\CustomExceptionHandlerMiddleWare.cs",
+              "RelativeDocumentMoniker": "TalabatDemo\\CustomMiddleWares\\CustomExceptionHandlerMiddleWare.cs",
+              "ToolTip": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\TalabatDemo\\CustomMiddleWares\\CustomExceptionHandlerMiddleWare.cs",
+              "RelativeToolTip": "TalabatDemo\\CustomMiddleWares\\CustomExceptionHandlerMiddleWare.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T13:48:26.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationServicesRegistration.cs",
+              "DocumentMoniker": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\ServiceLayer\\ApplicationServicesRegistration.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\ApplicationServicesRegistration.cs",
+              "ToolTip": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\ServiceLayer\\ApplicationServicesRegistration.cs",
+              "RelativeToolTip": "ServiceLayer\\ApplicationServicesRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T20:21:09.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\TalabatDemo\\Program.cs",
+              "RelativeDocumentMoniker": "TalabatDemo\\Program.cs",
+              "ToolTip": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\TalabatDemo\\Program.cs",
+              "RelativeToolTip": "TalabatDemo\\Program.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAywF0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T13:53:52.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\PresentationLayer\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\PresentationLayer\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "PresentationLayer\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAywGgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T17:10:57.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\TalabatDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "TalabatDemo\\appsettings.json",
+              "ToolTip": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\TalabatDemo\\appsettings.json",
+              "RelativeToolTip": "TalabatDemo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-27T09:38:46.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\ServiceLayer\\ProductService.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\ProductService.cs",
+              "ToolTip": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\ServiceLayer\\ProductService.cs",
+              "RelativeToolTip": "ServiceLayer\\ProductService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACUAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T15:52:45.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductQueryParams.cs",
+              "DocumentMoniker": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\Shared\\ProductQueryParams.cs",
+              "RelativeDocumentMoniker": "Shared\\ProductQueryParams.cs",
+              "ToolTip": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\Shared\\ProductQueryParams.cs",
+              "RelativeToolTip": "Shared\\ProductQueryParams.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAkwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T19:42:20.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ServiceRegisteration.cs",
+              "DocumentMoniker": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\TalabatDemo\\Extensions\\ServiceRegisteration.cs",
+              "RelativeDocumentMoniker": "TalabatDemo\\Extensions\\ServiceRegisteration.cs",
+              "ToolTip": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\TalabatDemo\\Extensions\\ServiceRegisteration.cs",
+              "RelativeToolTip": "TalabatDemo\\Extensions\\ServiceRegisteration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T20:46:09.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BasketRepository.cs",
+              "DocumentMoniker": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\PersintenceLayer\\Repositorys\\BasketRepository.cs",
+              "RelativeDocumentMoniker": "PersintenceLayer\\Repositorys\\BasketRepository.cs",
+              "ToolTip": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\PersintenceLayer\\Repositorys\\BasketRepository.cs",
+              "RelativeToolTip": "PersintenceLayer\\Repositorys\\BasketRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAgwCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T22:02:33.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BasketService.cs",
+              "DocumentMoniker": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\ServiceLayer\\BasketService.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\BasketService.cs",
+              "ToolTip": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\ServiceLayer\\BasketService.cs",
+              "RelativeToolTip": "ServiceLayer\\BasketService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAIA2wBIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T10:04:44.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RedisNotAvailableException.cs",
+              "DocumentMoniker": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\DomainLayer\\Exceptions\\RedisNotAvailableException.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Exceptions\\RedisNotAvailableException.cs",
+              "ToolTip": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\DomainLayer\\Exceptions\\RedisNotAvailableException.cs",
+              "RelativeToolTip": "DomainLayer\\Exceptions\\RedisNotAvailableException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T11:15:45.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ServiceManager.cs",
+              "DocumentMoniker": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\ServiceLayer\\ServiceManager.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\ServiceManager.cs",
+              "ToolTip": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\ServiceLayer\\ServiceManager.cs",
+              "RelativeToolTip": "ServiceLayer\\ServiceManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T17:14:14.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "productProfile.cs",
+              "DocumentMoniker": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\ServiceLayer\\MappingProfiles\\productProfile.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\MappingProfiles\\productProfile.cs",
+              "ToolTip": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\ServiceLayer\\MappingProfiles\\productProfile.cs",
+              "RelativeToolTip": "ServiceLayer\\MappingProfiles\\productProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T16:16:02.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PictureUrlResolver.cs",
+              "DocumentMoniker": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\ServiceLayer\\MappingProfiles\\PictureUrlResolver.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\MappingProfiles\\PictureUrlResolver.cs",
+              "ToolTip": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\ServiceLayer\\MappingProfiles\\PictureUrlResolver.cs",
+              "RelativeToolTip": "ServiceLayer\\MappingProfiles\\PictureUrlResolver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T19:48:42.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IServiceManager.cs",
+              "DocumentMoniker": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\ServiceAbstractionLayer\\IServiceManager.cs",
+              "RelativeDocumentMoniker": "ServiceAbstractionLayer\\IServiceManager.cs",
+              "ToolTip": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\ServiceAbstractionLayer\\IServiceManager.cs",
+              "RelativeToolTip": "ServiceAbstractionLayer\\IServiceManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T17:13:02.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IBasketService.cs",
+              "DocumentMoniker": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\ServiceAbstractionLayer\\IBasketService.cs",
+              "RelativeDocumentMoniker": "ServiceAbstractionLayer\\IBasketService.cs",
+              "ToolTip": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\ServiceAbstractionLayer\\IBasketService.cs",
+              "RelativeToolTip": "ServiceAbstractionLayer\\IBasketService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T01:02:23.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\ServiceAbstractionLayer\\IProductService.cs",
+              "RelativeDocumentMoniker": "ServiceAbstractionLayer\\IProductService.cs",
+              "ToolTip": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\ServiceAbstractionLayer\\IProductService.cs",
+              "RelativeToolTip": "ServiceAbstractionLayer\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T15:44:52.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BasketNotFoundException.cs",
+              "DocumentMoniker": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\DomainLayer\\Exceptions\\BasketNotFoundException.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Exceptions\\BasketNotFoundException.cs",
+              "ToolTip": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\DomainLayer\\Exceptions\\BasketNotFoundException.cs",
+              "RelativeToolTip": "DomainLayer\\Exceptions\\BasketNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T21:58:09.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UnauthorizedException.cs",
+              "DocumentMoniker": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\DomainLayer\\Exceptions\\UnauthorizedException.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Exceptions\\UnauthorizedException.cs",
+              "ToolTip": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\DomainLayer\\Exceptions\\UnauthorizedException.cs",
+              "RelativeToolTip": "DomainLayer\\Exceptions\\UnauthorizedException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T21:59:00.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\DomainLayer\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\DomainLayer\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "DomainLayer\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T15:03:54.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BadRequestException.cs",
+              "DocumentMoniker": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\DomainLayer\\Exceptions\\BadRequestException.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Exceptions\\BadRequestException.cs",
+              "ToolTip": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\DomainLayer\\Exceptions\\BadRequestException.cs",
+              "RelativeToolTip": "DomainLayer\\Exceptions\\BadRequestException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T21:58:01.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BasketProfile.cs",
+              "DocumentMoniker": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\ServiceLayer\\MappingProfiles\\BasketProfile.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\MappingProfiles\\BasketProfile.cs",
+              "ToolTip": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\ServiceLayer\\MappingProfiles\\BasketProfile.cs",
+              "RelativeToolTip": "ServiceLayer\\MappingProfiles\\BasketProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T10:07:59.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ServiceLayer.csproj",
+              "DocumentMoniker": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\ServiceLayer\\ServiceLayer.csproj",
+              "RelativeDocumentMoniker": "ServiceLayer\\ServiceLayer.csproj",
+              "ToolTip": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\ServiceLayer\\ServiceLayer.csproj",
+              "RelativeToolTip": "ServiceLayer\\ServiceLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-30T17:25:50.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BasketDTO.cs",
+              "DocumentMoniker": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\Shared\\DTOS\\BasketDtos\\BasketDTO.cs",
+              "RelativeDocumentMoniker": "Shared\\DTOS\\BasketDtos\\BasketDTO.cs",
+              "ToolTip": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\Shared\\DTOS\\BasketDtos\\BasketDTO.cs",
+              "RelativeToolTip": "Shared\\DTOS\\BasketDtos\\BasketDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T09:48:05.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BasketItemDTO.cs",
+              "DocumentMoniker": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\Shared\\DTOS\\BasketDtos\\BasketItemDTO.cs",
+              "RelativeDocumentMoniker": "Shared\\DTOS\\BasketDtos\\BasketItemDTO.cs",
+              "ToolTip": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\Shared\\DTOS\\BasketDtos\\BasketItemDTO.cs",
+              "RelativeToolTip": "Shared\\DTOS\\BasketDtos\\BasketItemDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T09:48:57.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\Shared\\DTOS\\ProductDtos\\ProductDto.cs",
+              "RelativeDocumentMoniker": "Shared\\DTOS\\ProductDtos\\ProductDto.cs",
+              "ToolTip": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\Shared\\DTOS\\ProductDtos\\ProductDto.cs",
+              "RelativeToolTip": "Shared\\DTOS\\ProductDtos\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T13:29:28.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TypeDto.cs",
+              "DocumentMoniker": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\Shared\\DTOS\\ProductDtos\\TypeDto.cs",
+              "RelativeDocumentMoniker": "Shared\\DTOS\\ProductDtos\\TypeDto.cs",
+              "ToolTip": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\Shared\\DTOS\\ProductDtos\\TypeDto.cs",
+              "RelativeToolTip": "Shared\\DTOS\\ProductDtos\\TypeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T15:30:33.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BrandDto.cs",
+              "DocumentMoniker": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\Shared\\DTOS\\ProductDtos\\BrandDto.cs",
+              "RelativeDocumentMoniker": "Shared\\DTOS\\ProductDtos\\BrandDto.cs",
+              "ToolTip": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\Shared\\DTOS\\ProductDtos\\BrandDto.cs",
+              "RelativeToolTip": "Shared\\DTOS\\ProductDtos\\BrandDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T15:30:21.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IBasketRepository.cs",
+              "DocumentMoniker": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\DomainLayer\\Contracts\\IBasketRepository.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Contracts\\IBasketRepository.cs",
+              "ToolTip": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\DomainLayer\\Contracts\\IBasketRepository.cs",
+              "RelativeToolTip": "DomainLayer\\Contracts\\IBasketRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T21:56:32.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CustomerBasket.cs",
+              "DocumentMoniker": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\DomainLayer\\Models\\Basket\\CustomerBasket.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Models\\Basket\\CustomerBasket.cs",
+              "ToolTip": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\DomainLayer\\Models\\Basket\\CustomerBasket.cs",
+              "RelativeToolTip": "DomainLayer\\Models\\Basket\\CustomerBasket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T21:39:51.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BasketItem.cs",
+              "DocumentMoniker": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\DomainLayer\\Models\\Basket\\BasketItem.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Models\\Basket\\BasketItem.cs",
+              "ToolTip": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\DomainLayer\\Models\\Basket\\BasketItem.cs",
+              "RelativeToolTip": "DomainLayer\\Models\\Basket\\BasketItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T21:39:13.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\PersintenceLayer\\Repositorys\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "PersintenceLayer\\Repositorys\\GenericRepository.cs",
+              "ToolTip": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\PersintenceLayer\\Repositorys\\GenericRepository.cs",
+              "RelativeToolTip": "PersintenceLayer\\Repositorys\\GenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:33:15.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ValidateModelAttribute.cs",
+              "DocumentMoniker": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\TalabatDemo\\Filters\\ValidateModelAttribute.cs",
+              "RelativeDocumentMoniker": "TalabatDemo\\Filters\\ValidateModelAttribute.cs",
+              "ToolTip": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\TalabatDemo\\Filters\\ValidateModelAttribute.cs",
+              "RelativeToolTip": "TalabatDemo\\Filters\\ValidateModelAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T20:12:12.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "WebApplicationRegisteration.cs",
+              "DocumentMoniker": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\TalabatDemo\\Extensions\\WebApplicationRegisteration.cs",
+              "RelativeDocumentMoniker": "TalabatDemo\\Extensions\\WebApplicationRegisteration.cs",
+              "ToolTip": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\TalabatDemo\\Extensions\\WebApplicationRegisteration.cs",
+              "RelativeToolTip": "TalabatDemo\\Extensions\\WebApplicationRegisteration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T21:00:07.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ApiResponseFactory.cs",
+              "DocumentMoniker": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\TalabatDemo\\Factories\\ApiResponseFactory.cs",
+              "RelativeDocumentMoniker": "TalabatDemo\\Factories\\ApiResponseFactory.cs",
+              "ToolTip": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\TalabatDemo\\Factories\\ApiResponseFactory.cs",
+              "RelativeToolTip": "TalabatDemo\\Factories\\ApiResponseFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T20:00:05.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "DataSeeding.cs",
+              "DocumentMoniker": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\PersintenceLayer\\DataSeeding.cs",
+              "RelativeDocumentMoniker": "PersintenceLayer\\DataSeeding.cs",
+              "ToolTip": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\PersintenceLayer\\DataSeeding.cs",
+              "RelativeToolTip": "PersintenceLayer\\DataSeeding.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAowCkAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T12:30:21.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ErrorToReturn.cs",
+              "DocumentMoniker": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\Shared\\ErrorModels\\ErrorToReturn.cs",
+              "RelativeDocumentMoniker": "Shared\\ErrorModels\\ErrorToReturn.cs",
+              "ToolTip": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\Shared\\ErrorModels\\ErrorToReturn.cs",
+              "RelativeToolTip": "Shared\\ErrorModels\\ErrorToReturn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T13:59:06.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IDataSeeding.cs",
+              "DocumentMoniker": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\DomainLayer\\Contracts\\IDataSeeding.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Contracts\\IDataSeeding.cs",
+              "ToolTip": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\DomainLayer\\Contracts\\IDataSeeding.cs",
+              "RelativeToolTip": "DomainLayer\\Contracts\\IDataSeeding.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T12:18:33.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ProductType.cs",
+              "DocumentMoniker": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\DomainLayer\\Models\\Products\\ProductType.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Models\\Products\\ProductType.cs",
+              "ToolTip": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\DomainLayer\\Models\\Products\\ProductType.cs",
+              "RelativeToolTip": "DomainLayer\\Models\\Products\\ProductType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T09:05:18.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\DomainLayer\\Models\\Products\\Product.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Models\\Products\\Product.cs",
+              "ToolTip": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\DomainLayer\\Models\\Products\\Product.cs",
+              "RelativeToolTip": "DomainLayer\\Models\\Products\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T09:04:15.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ProductCountSpecifications.cs",
+              "DocumentMoniker": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\ServiceLayer\\Specifications\\ProductCountSpecifications.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\Specifications\\ProductCountSpecifications.cs",
+              "ToolTip": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\ServiceLayer\\Specifications\\ProductCountSpecifications.cs",
+              "RelativeToolTip": "ServiceLayer\\Specifications\\ProductCountSpecifications.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T14:02:58.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\DomainLayer\\Contracts\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Contracts\\IGenericRepository.cs",
+              "ToolTip": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\DomainLayer\\Contracts\\IGenericRepository.cs",
+              "RelativeToolTip": "DomainLayer\\Contracts\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:21:33.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "PaginatedResult.cs",
+              "DocumentMoniker": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\Shared\\PaginatedResult.cs",
+              "RelativeDocumentMoniker": "Shared\\PaginatedResult.cs",
+              "ToolTip": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\Shared\\PaginatedResult.cs",
+              "RelativeToolTip": "Shared\\PaginatedResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T23:03:32.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "SpecificationEvaluator.cs",
+              "DocumentMoniker": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\PersintenceLayer\\Repositorys\\SpecificationEvaluator.cs",
+              "RelativeDocumentMoniker": "PersintenceLayer\\Repositorys\\SpecificationEvaluator.cs",
+              "ToolTip": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\PersintenceLayer\\Repositorys\\SpecificationEvaluator.cs",
+              "RelativeToolTip": "PersintenceLayer\\Repositorys\\SpecificationEvaluator.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAywDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T13:06:45.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ISpecifications.cs",
+              "DocumentMoniker": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\DomainLayer\\Contracts\\ISpecifications.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Contracts\\ISpecifications.cs",
+              "ToolTip": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\DomainLayer\\Contracts\\ISpecifications.cs",
+              "RelativeToolTip": "DomainLayer\\Contracts\\ISpecifications.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T14:19:06.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ProductWithBrandAndTypeSpecifications.cs",
+              "DocumentMoniker": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\ServiceLayer\\Specifications\\ProductWithBrandAndTypeSpecifications.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\Specifications\\ProductWithBrandAndTypeSpecifications.cs",
+              "ToolTip": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\ServiceLayer\\Specifications\\ProductWithBrandAndTypeSpecifications.cs",
+              "RelativeToolTip": "ServiceLayer\\Specifications\\ProductWithBrandAndTypeSpecifications.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAA4wC0AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T14:36:26.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "BaseSpecifications.cs",
+              "DocumentMoniker": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\ServiceLayer\\Specifications\\BaseSpecifications.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\Specifications\\BaseSpecifications.cs",
+              "ToolTip": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\ServiceLayer\\Specifications\\BaseSpecifications.cs",
+              "RelativeToolTip": "ServiceLayer\\Specifications\\BaseSpecifications.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA4wDkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T14:24:18.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ProductSortingOptions.cs",
+              "DocumentMoniker": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\Shared\\ProductSortingOptions.cs",
+              "RelativeDocumentMoniker": "Shared\\ProductSortingOptions.cs",
+              "ToolTip": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\Shared\\ProductSortingOptions.cs",
+              "RelativeToolTip": "Shared\\ProductSortingOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T15:59:03.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "PresentationLayer.csproj",
+              "DocumentMoniker": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\PresentationLayer\\PresentationLayer.csproj",
+              "RelativeDocumentMoniker": "PresentationLayer\\PresentationLayer.csproj",
+              "ToolTip": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\PresentationLayer\\PresentationLayer.csproj",
+              "RelativeToolTip": "PresentationLayer\\PresentationLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-30T17:26:03.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "StoreDbContext.cs",
+              "DocumentMoniker": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\PersintenceLayer\\Data\\StoreDbContext.cs",
+              "RelativeDocumentMoniker": "PersintenceLayer\\Data\\StoreDbContext.cs",
+              "ToolTip": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\PersintenceLayer\\Data\\StoreDbContext.cs",
+              "RelativeToolTip": "PersintenceLayer\\Data\\StoreDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T09:14:45.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ProductConfigurations.cs",
+              "DocumentMoniker": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\PersintenceLayer\\Data\\Configurations\\ProductConfigurations.cs",
+              "RelativeDocumentMoniker": "PersintenceLayer\\Data\\Configurations\\ProductConfigurations.cs",
+              "ToolTip": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\PersintenceLayer\\Data\\Configurations\\ProductConfigurations.cs",
+              "RelativeToolTip": "PersintenceLayer\\Data\\Configurations\\ProductConfigurations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T09:21:42.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "20251030174707_1.cs",
+              "DocumentMoniker": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\PersintenceLayer\\Data\\Migrations\\20251030174707_1.cs",
+              "RelativeDocumentMoniker": "PersintenceLayer\\Data\\Migrations\\20251030174707_1.cs",
+              "ToolTip": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\PersintenceLayer\\Data\\Migrations\\20251030174707_1.cs",
+              "RelativeToolTip": "PersintenceLayer\\Data\\Migrations\\20251030174707_1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T17:47:08.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "TalabatDemo.csproj",
+              "DocumentMoniker": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\TalabatDemo\\TalabatDemo.csproj",
+              "RelativeDocumentMoniker": "TalabatDemo\\TalabatDemo.csproj",
+              "ToolTip": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\TalabatDemo\\TalabatDemo.csproj",
+              "RelativeToolTip": "TalabatDemo\\TalabatDemo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-30T15:53:32.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ServiceLayerAssemblyReference.cs",
+              "DocumentMoniker": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\ServiceLayer\\ServiceLayerAssemblyReference.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\ServiceLayerAssemblyReference.cs",
+              "ToolTip": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\ServiceLayer\\ServiceLayerAssemblyReference.cs",
+              "RelativeToolTip": "ServiceLayer\\ServiceLayerAssemblyReference.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T16:30:18.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\PersintenceLayer\\Repositorys\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "PersintenceLayer\\Repositorys\\UnitOfWork.cs",
+              "ToolTip": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\PersintenceLayer\\Repositorys\\UnitOfWork.cs",
+              "RelativeToolTip": "PersintenceLayer\\Repositorys\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T12:24:54.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\DomainLayer\\Contracts\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Contracts\\IUnitOfWork.cs",
+              "ToolTip": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\DomainLayer\\Contracts\\IUnitOfWork.cs",
+              "RelativeToolTip": "DomainLayer\\Contracts\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T12:01:18.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "20251027094904_OnitialCreate.cs",
+              "DocumentMoniker": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\PersintenceLayer\\Data\\Migrations\\20251027094904_OnitialCreate.cs",
+              "RelativeDocumentMoniker": "PersintenceLayer\\Data\\Migrations\\20251027094904_OnitialCreate.cs",
+              "ToolTip": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\PersintenceLayer\\Data\\Migrations\\20251027094904_OnitialCreate.cs",
+              "RelativeToolTip": "PersintenceLayer\\Data\\Migrations\\20251027094904_OnitialCreate.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAowEkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T09:49:05.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "ProductBrand.cs",
+              "DocumentMoniker": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\DomainLayer\\Models\\Products\\ProductBrand.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Models\\Products\\ProductBrand.cs",
+              "ToolTip": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\DomainLayer\\Models\\Products\\ProductBrand.cs",
+              "RelativeToolTip": "DomainLayer\\Models\\Products\\ProductBrand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T09:04:42.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\DomainLayer\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Models\\BaseEntity.cs",
+              "ToolTip": "D:\\2l gm3a\\Wep\\API-C44-G02-API02\\TalabatDemoSolution\\DomainLayer\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "DomainLayer\\Models\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T09:02:13.64Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

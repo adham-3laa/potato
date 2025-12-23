@@ -1,0 +1,33 @@
+D:\route\assinments\API\TalabatDemoSolution\DomainLayer\bin\Debug\net8.0\DomainLayer.deps.json
+D:\route\assinments\API\TalabatDemoSolution\DomainLayer\bin\Debug\net8.0\DomainLayer.dll
+D:\route\assinments\API\TalabatDemoSolution\DomainLayer\bin\Debug\net8.0\DomainLayer.pdb
+D:\route\assinments\API\TalabatDemoSolution\DomainLayer\obj\Debug\net8.0\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\route\assinments\API\TalabatDemoSolution\DomainLayer\obj\Debug\net8.0\DomainLayer.AssemblyInfoInputs.cache
+D:\route\assinments\API\TalabatDemoSolution\DomainLayer\obj\Debug\net8.0\DomainLayer.AssemblyInfo.cs
+D:\route\assinments\API\TalabatDemoSolution\DomainLayer\obj\Debug\net8.0\DomainLayer.csproj.CoreCompileInputs.cache
+D:\route\assinments\API\TalabatDemoSolution\DomainLayer\obj\Debug\net8.0\DomainLayer.dll
+D:\route\assinments\API\TalabatDemoSolution\DomainLayer\obj\Debug\net8.0\refint\DomainLayer.dll
+D:\route\assinments\API\TalabatDemoSolution\DomainLayer\obj\Debug\net8.0\DomainLayer.pdb
+D:\route\assinments\API\TalabatDemoSolution\DomainLayer\obj\Debug\net8.0\ref\DomainLayer.dll
+D:\2l gm3a\Wep\API-C44-G02-API02\API-C44-G02-API04\TalabatDemoSolution\DomainLayer\bin\Debug\net8.0\DomainLayer.deps.json
+D:\2l gm3a\Wep\API-C44-G02-API02\API-C44-G02-API04\TalabatDemoSolution\DomainLayer\bin\Debug\net8.0\DomainLayer.dll
+D:\2l gm3a\Wep\API-C44-G02-API02\API-C44-G02-API04\TalabatDemoSolution\DomainLayer\bin\Debug\net8.0\DomainLayer.pdb
+D:\2l gm3a\Wep\API-C44-G02-API02\API-C44-G02-API04\TalabatDemoSolution\DomainLayer\obj\Debug\net8.0\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\2l gm3a\Wep\API-C44-G02-API02\API-C44-G02-API04\TalabatDemoSolution\DomainLayer\obj\Debug\net8.0\DomainLayer.AssemblyInfoInputs.cache
+D:\2l gm3a\Wep\API-C44-G02-API02\API-C44-G02-API04\TalabatDemoSolution\DomainLayer\obj\Debug\net8.0\DomainLayer.AssemblyInfo.cs
+D:\2l gm3a\Wep\API-C44-G02-API02\API-C44-G02-API04\TalabatDemoSolution\DomainLayer\obj\Debug\net8.0\DomainLayer.csproj.CoreCompileInputs.cache
+D:\2l gm3a\Wep\API-C44-G02-API02\API-C44-G02-API04\TalabatDemoSolution\DomainLayer\obj\Debug\net8.0\DomainLayer.dll
+D:\2l gm3a\Wep\API-C44-G02-API02\API-C44-G02-API04\TalabatDemoSolution\DomainLayer\obj\Debug\net8.0\refint\DomainLayer.dll
+D:\2l gm3a\Wep\API-C44-G02-API02\API-C44-G02-API04\TalabatDemoSolution\DomainLayer\obj\Debug\net8.0\DomainLayer.pdb
+D:\2l gm3a\Wep\API-C44-G02-API02\API-C44-G02-API04\TalabatDemoSolution\DomainLayer\obj\Debug\net8.0\ref\DomainLayer.dll
+D:\2l gm3a\Wep\API-C44-G02-API02\TalabatDemoSolution\DomainLayer\bin\Debug\net8.0\DomainLayer.deps.json
+D:\2l gm3a\Wep\API-C44-G02-API02\TalabatDemoSolution\DomainLayer\bin\Debug\net8.0\DomainLayer.dll
+D:\2l gm3a\Wep\API-C44-G02-API02\TalabatDemoSolution\DomainLayer\bin\Debug\net8.0\DomainLayer.pdb
+D:\2l gm3a\Wep\API-C44-G02-API02\TalabatDemoSolution\DomainLayer\obj\Debug\net8.0\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\2l gm3a\Wep\API-C44-G02-API02\TalabatDemoSolution\DomainLayer\obj\Debug\net8.0\DomainLayer.AssemblyInfoInputs.cache
+D:\2l gm3a\Wep\API-C44-G02-API02\TalabatDemoSolution\DomainLayer\obj\Debug\net8.0\DomainLayer.AssemblyInfo.cs
+D:\2l gm3a\Wep\API-C44-G02-API02\TalabatDemoSolution\DomainLayer\obj\Debug\net8.0\DomainLayer.csproj.CoreCompileInputs.cache
+D:\2l gm3a\Wep\API-C44-G02-API02\TalabatDemoSolution\DomainLayer\obj\Debug\net8.0\DomainLayer.dll
+D:\2l gm3a\Wep\API-C44-G02-API02\TalabatDemoSolution\DomainLayer\obj\Debug\net8.0\refint\DomainLayer.dll
+D:\2l gm3a\Wep\API-C44-G02-API02\TalabatDemoSolution\DomainLayer\obj\Debug\net8.0\DomainLayer.pdb
+D:\2l gm3a\Wep\API-C44-G02-API02\TalabatDemoSolution\DomainLayer\obj\Debug\net8.0\ref\DomainLayer.dll

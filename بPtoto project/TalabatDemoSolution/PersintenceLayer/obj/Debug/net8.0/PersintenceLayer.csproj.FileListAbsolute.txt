@@ -1,0 +1,63 @@
+D:\route\assinments\API\TalabatDemoSolution\PersintenceLayer\bin\Debug\net8.0\PersintenceLayer.deps.json
+D:\route\assinments\API\TalabatDemoSolution\PersintenceLayer\bin\Debug\net8.0\PersintenceLayer.dll
+D:\route\assinments\API\TalabatDemoSolution\PersintenceLayer\bin\Debug\net8.0\PersintenceLayer.pdb
+D:\route\assinments\API\TalabatDemoSolution\PersintenceLayer\bin\Debug\net8.0\DomainLayer.dll
+D:\route\assinments\API\TalabatDemoSolution\PersintenceLayer\bin\Debug\net8.0\ServiceAbstractionLayer.dll
+D:\route\assinments\API\TalabatDemoSolution\PersintenceLayer\bin\Debug\net8.0\ServiceLayer.dll
+D:\route\assinments\API\TalabatDemoSolution\PersintenceLayer\bin\Debug\net8.0\Shared.dll
+D:\route\assinments\API\TalabatDemoSolution\PersintenceLayer\bin\Debug\net8.0\ServiceLayer.pdb
+D:\route\assinments\API\TalabatDemoSolution\PersintenceLayer\bin\Debug\net8.0\DomainLayer.pdb
+D:\route\assinments\API\TalabatDemoSolution\PersintenceLayer\bin\Debug\net8.0\ServiceAbstractionLayer.pdb
+D:\route\assinments\API\TalabatDemoSolution\PersintenceLayer\bin\Debug\net8.0\Shared.pdb
+D:\route\assinments\API\TalabatDemoSolution\PersintenceLayer\obj\Debug\net8.0\PersintenceLayer.csproj.AssemblyReference.cache
+D:\route\assinments\API\TalabatDemoSolution\PersintenceLayer\obj\Debug\net8.0\PersintenceLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\route\assinments\API\TalabatDemoSolution\PersintenceLayer\obj\Debug\net8.0\PersintenceLayer.AssemblyInfoInputs.cache
+D:\route\assinments\API\TalabatDemoSolution\PersintenceLayer\obj\Debug\net8.0\PersintenceLayer.AssemblyInfo.cs
+D:\route\assinments\API\TalabatDemoSolution\PersintenceLayer\obj\Debug\net8.0\PersintenceLayer.csproj.CoreCompileInputs.cache
+D:\route\assinments\API\TalabatDemoSolution\PersintenceLayer\obj\Debug\net8.0\Persinte.FC915E67.Up2Date
+D:\route\assinments\API\TalabatDemoSolution\PersintenceLayer\obj\Debug\net8.0\PersintenceLayer.dll
+D:\route\assinments\API\TalabatDemoSolution\PersintenceLayer\obj\Debug\net8.0\refint\PersintenceLayer.dll
+D:\route\assinments\API\TalabatDemoSolution\PersintenceLayer\obj\Debug\net8.0\PersintenceLayer.pdb
+D:\route\assinments\API\TalabatDemoSolution\PersintenceLayer\obj\Debug\net8.0\ref\PersintenceLayer.dll
+D:\2l gm3a\Wep\API-C44-G02-API02\API-C44-G02-API04\TalabatDemoSolution\PersintenceLayer\bin\Debug\net8.0\PersintenceLayer.deps.json
+D:\2l gm3a\Wep\API-C44-G02-API02\API-C44-G02-API04\TalabatDemoSolution\PersintenceLayer\bin\Debug\net8.0\PersintenceLayer.dll
+D:\2l gm3a\Wep\API-C44-G02-API02\API-C44-G02-API04\TalabatDemoSolution\PersintenceLayer\bin\Debug\net8.0\PersintenceLayer.pdb
+D:\2l gm3a\Wep\API-C44-G02-API02\API-C44-G02-API04\TalabatDemoSolution\PersintenceLayer\bin\Debug\net8.0\DomainLayer.dll
+D:\2l gm3a\Wep\API-C44-G02-API02\API-C44-G02-API04\TalabatDemoSolution\PersintenceLayer\bin\Debug\net8.0\ServiceAbstractionLayer.dll
+D:\2l gm3a\Wep\API-C44-G02-API02\API-C44-G02-API04\TalabatDemoSolution\PersintenceLayer\bin\Debug\net8.0\ServiceLayer.dll
+D:\2l gm3a\Wep\API-C44-G02-API02\API-C44-G02-API04\TalabatDemoSolution\PersintenceLayer\bin\Debug\net8.0\Shared.dll
+D:\2l gm3a\Wep\API-C44-G02-API02\API-C44-G02-API04\TalabatDemoSolution\PersintenceLayer\bin\Debug\net8.0\ServiceLayer.pdb
+D:\2l gm3a\Wep\API-C44-G02-API02\API-C44-G02-API04\TalabatDemoSolution\PersintenceLayer\bin\Debug\net8.0\DomainLayer.pdb
+D:\2l gm3a\Wep\API-C44-G02-API02\API-C44-G02-API04\TalabatDemoSolution\PersintenceLayer\bin\Debug\net8.0\ServiceAbstractionLayer.pdb
+D:\2l gm3a\Wep\API-C44-G02-API02\API-C44-G02-API04\TalabatDemoSolution\PersintenceLayer\bin\Debug\net8.0\Shared.pdb
+D:\2l gm3a\Wep\API-C44-G02-API02\API-C44-G02-API04\TalabatDemoSolution\PersintenceLayer\obj\Debug\net8.0\PersintenceLayer.csproj.AssemblyReference.cache
+D:\2l gm3a\Wep\API-C44-G02-API02\API-C44-G02-API04\TalabatDemoSolution\PersintenceLayer\obj\Debug\net8.0\PersintenceLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\2l gm3a\Wep\API-C44-G02-API02\API-C44-G02-API04\TalabatDemoSolution\PersintenceLayer\obj\Debug\net8.0\PersintenceLayer.AssemblyInfoInputs.cache
+D:\2l gm3a\Wep\API-C44-G02-API02\API-C44-G02-API04\TalabatDemoSolution\PersintenceLayer\obj\Debug\net8.0\PersintenceLayer.AssemblyInfo.cs
+D:\2l gm3a\Wep\API-C44-G02-API02\API-C44-G02-API04\TalabatDemoSolution\PersintenceLayer\obj\Debug\net8.0\PersintenceLayer.csproj.CoreCompileInputs.cache
+D:\2l gm3a\Wep\API-C44-G02-API02\API-C44-G02-API04\TalabatDemoSolution\PersintenceLayer\obj\Debug\net8.0\Persinte.FC915E67.Up2Date
+D:\2l gm3a\Wep\API-C44-G02-API02\API-C44-G02-API04\TalabatDemoSolution\PersintenceLayer\obj\Debug\net8.0\PersintenceLayer.dll
+D:\2l gm3a\Wep\API-C44-G02-API02\API-C44-G02-API04\TalabatDemoSolution\PersintenceLayer\obj\Debug\net8.0\refint\PersintenceLayer.dll
+D:\2l gm3a\Wep\API-C44-G02-API02\API-C44-G02-API04\TalabatDemoSolution\PersintenceLayer\obj\Debug\net8.0\PersintenceLayer.pdb
+D:\2l gm3a\Wep\API-C44-G02-API02\API-C44-G02-API04\TalabatDemoSolution\PersintenceLayer\obj\Debug\net8.0\ref\PersintenceLayer.dll
+D:\2l gm3a\Wep\API-C44-G02-API02\TalabatDemoSolution\PersintenceLayer\bin\Debug\net8.0\PersintenceLayer.deps.json
+D:\2l gm3a\Wep\API-C44-G02-API02\TalabatDemoSolution\PersintenceLayer\bin\Debug\net8.0\PersintenceLayer.dll
+D:\2l gm3a\Wep\API-C44-G02-API02\TalabatDemoSolution\PersintenceLayer\bin\Debug\net8.0\PersintenceLayer.pdb
+D:\2l gm3a\Wep\API-C44-G02-API02\TalabatDemoSolution\PersintenceLayer\bin\Debug\net8.0\DomainLayer.dll
+D:\2l gm3a\Wep\API-C44-G02-API02\TalabatDemoSolution\PersintenceLayer\bin\Debug\net8.0\ServiceAbstractionLayer.dll
+D:\2l gm3a\Wep\API-C44-G02-API02\TalabatDemoSolution\PersintenceLayer\bin\Debug\net8.0\ServiceLayer.dll
+D:\2l gm3a\Wep\API-C44-G02-API02\TalabatDemoSolution\PersintenceLayer\bin\Debug\net8.0\Shared.dll
+D:\2l gm3a\Wep\API-C44-G02-API02\TalabatDemoSolution\PersintenceLayer\bin\Debug\net8.0\ServiceLayer.pdb
+D:\2l gm3a\Wep\API-C44-G02-API02\TalabatDemoSolution\PersintenceLayer\bin\Debug\net8.0\DomainLayer.pdb
+D:\2l gm3a\Wep\API-C44-G02-API02\TalabatDemoSolution\PersintenceLayer\bin\Debug\net8.0\ServiceAbstractionLayer.pdb
+D:\2l gm3a\Wep\API-C44-G02-API02\TalabatDemoSolution\PersintenceLayer\bin\Debug\net8.0\Shared.pdb
+D:\2l gm3a\Wep\API-C44-G02-API02\TalabatDemoSolution\PersintenceLayer\obj\Debug\net8.0\PersintenceLayer.csproj.AssemblyReference.cache
+D:\2l gm3a\Wep\API-C44-G02-API02\TalabatDemoSolution\PersintenceLayer\obj\Debug\net8.0\PersintenceLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\2l gm3a\Wep\API-C44-G02-API02\TalabatDemoSolution\PersintenceLayer\obj\Debug\net8.0\PersintenceLayer.AssemblyInfoInputs.cache
+D:\2l gm3a\Wep\API-C44-G02-API02\TalabatDemoSolution\PersintenceLayer\obj\Debug\net8.0\PersintenceLayer.AssemblyInfo.cs
+D:\2l gm3a\Wep\API-C44-G02-API02\TalabatDemoSolution\PersintenceLayer\obj\Debug\net8.0\PersintenceLayer.csproj.CoreCompileInputs.cache
+D:\2l gm3a\Wep\API-C44-G02-API02\TalabatDemoSolution\PersintenceLayer\obj\Debug\net8.0\Persinte.FC915E67.Up2Date
+D:\2l gm3a\Wep\API-C44-G02-API02\TalabatDemoSolution\PersintenceLayer\obj\Debug\net8.0\PersintenceLayer.dll
+D:\2l gm3a\Wep\API-C44-G02-API02\TalabatDemoSolution\PersintenceLayer\obj\Debug\net8.0\refint\PersintenceLayer.dll
+D:\2l gm3a\Wep\API-C44-G02-API02\TalabatDemoSolution\PersintenceLayer\obj\Debug\net8.0\PersintenceLayer.pdb
+D:\2l gm3a\Wep\API-C44-G02-API02\TalabatDemoSolution\PersintenceLayer\obj\Debug\net8.0\ref\PersintenceLayer.dll

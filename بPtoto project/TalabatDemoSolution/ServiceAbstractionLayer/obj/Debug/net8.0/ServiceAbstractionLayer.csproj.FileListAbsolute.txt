@@ -1,0 +1,45 @@
+D:\route\assinments\API\TalabatDemoSolution\ServiceAbstractionLayer\bin\Debug\net8.0\ServiceAbstractionLayer.deps.json
+D:\route\assinments\API\TalabatDemoSolution\ServiceAbstractionLayer\bin\Debug\net8.0\ServiceAbstractionLayer.dll
+D:\route\assinments\API\TalabatDemoSolution\ServiceAbstractionLayer\bin\Debug\net8.0\ServiceAbstractionLayer.pdb
+D:\route\assinments\API\TalabatDemoSolution\ServiceAbstractionLayer\bin\Debug\net8.0\Shared.dll
+D:\route\assinments\API\TalabatDemoSolution\ServiceAbstractionLayer\bin\Debug\net8.0\Shared.pdb
+D:\route\assinments\API\TalabatDemoSolution\ServiceAbstractionLayer\obj\Debug\net8.0\ServiceAbstractionLayer.csproj.AssemblyReference.cache
+D:\route\assinments\API\TalabatDemoSolution\ServiceAbstractionLayer\obj\Debug\net8.0\ServiceAbstractionLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\route\assinments\API\TalabatDemoSolution\ServiceAbstractionLayer\obj\Debug\net8.0\ServiceAbstractionLayer.AssemblyInfoInputs.cache
+D:\route\assinments\API\TalabatDemoSolution\ServiceAbstractionLayer\obj\Debug\net8.0\ServiceAbstractionLayer.AssemblyInfo.cs
+D:\route\assinments\API\TalabatDemoSolution\ServiceAbstractionLayer\obj\Debug\net8.0\ServiceAbstractionLayer.csproj.CoreCompileInputs.cache
+D:\route\assinments\API\TalabatDemoSolution\ServiceAbstractionLayer\obj\Debug\net8.0\ServiceA.CFC80F52.Up2Date
+D:\route\assinments\API\TalabatDemoSolution\ServiceAbstractionLayer\obj\Debug\net8.0\ServiceAbstractionLayer.dll
+D:\route\assinments\API\TalabatDemoSolution\ServiceAbstractionLayer\obj\Debug\net8.0\refint\ServiceAbstractionLayer.dll
+D:\route\assinments\API\TalabatDemoSolution\ServiceAbstractionLayer\obj\Debug\net8.0\ServiceAbstractionLayer.pdb
+D:\route\assinments\API\TalabatDemoSolution\ServiceAbstractionLayer\obj\Debug\net8.0\ref\ServiceAbstractionLayer.dll
+D:\2l gm3a\Wep\API-C44-G02-API02\API-C44-G02-API04\TalabatDemoSolution\ServiceAbstractionLayer\bin\Debug\net8.0\ServiceAbstractionLayer.deps.json
+D:\2l gm3a\Wep\API-C44-G02-API02\API-C44-G02-API04\TalabatDemoSolution\ServiceAbstractionLayer\bin\Debug\net8.0\ServiceAbstractionLayer.dll
+D:\2l gm3a\Wep\API-C44-G02-API02\API-C44-G02-API04\TalabatDemoSolution\ServiceAbstractionLayer\bin\Debug\net8.0\ServiceAbstractionLayer.pdb
+D:\2l gm3a\Wep\API-C44-G02-API02\API-C44-G02-API04\TalabatDemoSolution\ServiceAbstractionLayer\bin\Debug\net8.0\Shared.dll
+D:\2l gm3a\Wep\API-C44-G02-API02\API-C44-G02-API04\TalabatDemoSolution\ServiceAbstractionLayer\bin\Debug\net8.0\Shared.pdb
+D:\2l gm3a\Wep\API-C44-G02-API02\API-C44-G02-API04\TalabatDemoSolution\ServiceAbstractionLayer\obj\Debug\net8.0\ServiceAbstractionLayer.csproj.AssemblyReference.cache
+D:\2l gm3a\Wep\API-C44-G02-API02\API-C44-G02-API04\TalabatDemoSolution\ServiceAbstractionLayer\obj\Debug\net8.0\ServiceAbstractionLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\2l gm3a\Wep\API-C44-G02-API02\API-C44-G02-API04\TalabatDemoSolution\ServiceAbstractionLayer\obj\Debug\net8.0\ServiceAbstractionLayer.AssemblyInfoInputs.cache
+D:\2l gm3a\Wep\API-C44-G02-API02\API-C44-G02-API04\TalabatDemoSolution\ServiceAbstractionLayer\obj\Debug\net8.0\ServiceAbstractionLayer.AssemblyInfo.cs
+D:\2l gm3a\Wep\API-C44-G02-API02\API-C44-G02-API04\TalabatDemoSolution\ServiceAbstractionLayer\obj\Debug\net8.0\ServiceAbstractionLayer.csproj.CoreCompileInputs.cache
+D:\2l gm3a\Wep\API-C44-G02-API02\API-C44-G02-API04\TalabatDemoSolution\ServiceAbstractionLayer\obj\Debug\net8.0\ServiceA.CFC80F52.Up2Date
+D:\2l gm3a\Wep\API-C44-G02-API02\API-C44-G02-API04\TalabatDemoSolution\ServiceAbstractionLayer\obj\Debug\net8.0\ServiceAbstractionLayer.dll
+D:\2l gm3a\Wep\API-C44-G02-API02\API-C44-G02-API04\TalabatDemoSolution\ServiceAbstractionLayer\obj\Debug\net8.0\refint\ServiceAbstractionLayer.dll
+D:\2l gm3a\Wep\API-C44-G02-API02\API-C44-G02-API04\TalabatDemoSolution\ServiceAbstractionLayer\obj\Debug\net8.0\ServiceAbstractionLayer.pdb
+D:\2l gm3a\Wep\API-C44-G02-API02\API-C44-G02-API04\TalabatDemoSolution\ServiceAbstractionLayer\obj\Debug\net8.0\ref\ServiceAbstractionLayer.dll
+D:\2l gm3a\Wep\API-C44-G02-API02\TalabatDemoSolution\ServiceAbstractionLayer\bin\Debug\net8.0\ServiceAbstractionLayer.deps.json
+D:\2l gm3a\Wep\API-C44-G02-API02\TalabatDemoSolution\ServiceAbstractionLayer\bin\Debug\net8.0\ServiceAbstractionLayer.dll
+D:\2l gm3a\Wep\API-C44-G02-API02\TalabatDemoSolution\ServiceAbstractionLayer\bin\Debug\net8.0\ServiceAbstractionLayer.pdb
+D:\2l gm3a\Wep\API-C44-G02-API02\TalabatDemoSolution\ServiceAbstractionLayer\bin\Debug\net8.0\Shared.dll
+D:\2l gm3a\Wep\API-C44-G02-API02\TalabatDemoSolution\ServiceAbstractionLayer\bin\Debug\net8.0\Shared.pdb
+D:\2l gm3a\Wep\API-C44-G02-API02\TalabatDemoSolution\ServiceAbstractionLayer\obj\Debug\net8.0\ServiceAbstractionLayer.csproj.AssemblyReference.cache
+D:\2l gm3a\Wep\API-C44-G02-API02\TalabatDemoSolution\ServiceAbstractionLayer\obj\Debug\net8.0\ServiceAbstractionLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\2l gm3a\Wep\API-C44-G02-API02\TalabatDemoSolution\ServiceAbstractionLayer\obj\Debug\net8.0\ServiceAbstractionLayer.AssemblyInfoInputs.cache
+D:\2l gm3a\Wep\API-C44-G02-API02\TalabatDemoSolution\ServiceAbstractionLayer\obj\Debug\net8.0\ServiceAbstractionLayer.AssemblyInfo.cs
+D:\2l gm3a\Wep\API-C44-G02-API02\TalabatDemoSolution\ServiceAbstractionLayer\obj\Debug\net8.0\ServiceAbstractionLayer.csproj.CoreCompileInputs.cache
+D:\2l gm3a\Wep\API-C44-G02-API02\TalabatDemoSolution\ServiceAbstractionLayer\obj\Debug\net8.0\ServiceA.CFC80F52.Up2Date
+D:\2l gm3a\Wep\API-C44-G02-API02\TalabatDemoSolution\ServiceAbstractionLayer\obj\Debug\net8.0\ServiceAbstractionLayer.dll
+D:\2l gm3a\Wep\API-C44-G02-API02\TalabatDemoSolution\ServiceAbstractionLayer\obj\Debug\net8.0\refint\ServiceAbstractionLayer.dll
+D:\2l gm3a\Wep\API-C44-G02-API02\TalabatDemoSolution\ServiceAbstractionLayer\obj\Debug\net8.0\ServiceAbstractionLayer.pdb
+D:\2l gm3a\Wep\API-C44-G02-API02\TalabatDemoSolution\ServiceAbstractionLayer\obj\Debug\net8.0\ref\ServiceAbstractionLayer.dll
